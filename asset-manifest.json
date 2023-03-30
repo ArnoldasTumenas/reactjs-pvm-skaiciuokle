@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjs-pvm-skaiciuokle/static/css/main.d97bfbc2.css",
+    "main.js": "/reactjs-pvm-skaiciuokle/static/js/main.39d3dead.js",
+    "index.html": "/reactjs-pvm-skaiciuokle/index.html",
+    "main.d97bfbc2.css.map": "/reactjs-pvm-skaiciuokle/static/css/main.d97bfbc2.css.map",
+    "main.39d3dead.js.map": "/reactjs-pvm-skaiciuokle/static/js/main.39d3dead.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d97bfbc2.css",
+    "static/js/main.39d3dead.js"
+  ]
+}
